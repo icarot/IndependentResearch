@@ -10,6 +10,7 @@ Kyuubi Engine UI proxy accepts a host and port from the request path and proxies
 # Apache Superset: When the default configuration turns you “Super(up)set”? (Article)
 - https://medium.com/@icarot/when-the-default-configuration-turns-you-super-up-set-b7febcd9b9ea
 - https://lists.apache.org/thread/pydlykgbsb9bjlnt8g789pjw7k8rt2ht
+- https://github.com/icarot/superUpset
 
 # Apache HertzBeat: Unrestricted access via Kyuubi engine-ui proxy (CVE-2024-45791)
 Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Apache HertzBeat. This issue affects Apache HertzBeat: before 1.6.1. Users are recommended to upgrade to version 1.6.1, which fixes the issue.
