@@ -59,6 +59,8 @@ This repository has the goal to centralize all independent research performed by
 - librechat-config-exposure.yaml (https://github.com/projectdiscovery/nuclei-templates/blob/main/http/exposures/configs/librechat-config-exposure.yaml);
 - hexstrike-ai-config.yaml (https://github.com/projectdiscovery/nuclei-templates/blob/main/http/exposures/configs/hexstrike-ai-config.yaml);
 - litellm-default-login.yaml (https://github.com/projectdiscovery/nuclei-templates/blob/main/http/default-logins/litellm-default-login.yaml);
+- apache-livy-detect.yaml (https://github.com/projectdiscovery/nuclei-templates/blob/main/http/technologies/apache/apache-livy-detect.yaml);
+- apache-livy-logs.yaml (https://github.com/projectdiscovery/nuclei-templates/blob/main/http/exposures/logs/apache-livy-logs.yaml);
 
 ## Exacaster Lighter (https://github.com/exacaster/lighter/)
 https://github.com/exacaster/lighter/issues/1364
