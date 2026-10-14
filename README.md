@@ -61,6 +61,9 @@ This repository has the goal to centralize all independent research performed by
 - litellm-default-login.yaml (https://github.com/projectdiscovery/nuclei-templates/blob/main/http/default-logins/litellm-default-login.yaml);
 - apache-livy-detect.yaml (https://github.com/projectdiscovery/nuclei-templates/blob/main/http/technologies/apache/apache-livy-detect.yaml);
 - apache-livy-logs.yaml (https://github.com/projectdiscovery/nuclei-templates/blob/main/http/exposures/logs/apache-livy-logs.yaml);
+- apache-skywalking-horizon-ui-detect.yaml (https://github.com/projectdiscovery/nuclei-templates/blob/main/http/technologies/apache/apache-skywalking-horizon-ui-detect.yaml);
+- apache-skywalking-horizon-ui-config.yaml (https://github.com/projectdiscovery/nuclei-templates/blob/main/http/exposures/configs/apache-skywalking-horizon-ui-config.yaml);
+- apache-skywalking-default-login.yaml (https://github.com/projectdiscovery/nuclei-templates/blob/main/http/default-logins/apache/apache-skywalking-default-login.yaml);
 
 ## Exacaster Lighter (https://github.com/exacaster/lighter/)
 https://github.com/exacaster/lighter/issues/1364
